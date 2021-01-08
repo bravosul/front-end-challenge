@@ -1,6 +1,15 @@
-# Bravosul Front-End Challenge
+<h1 align="center">
+  <img alt="Bravosul" src="https://bravosul.com.br/logo-bravosul.svg" height="100px" />
+  <br>
+  Front-End Challenge
+</h1>
 
-The AngularApp consists of the need to serve a small business with a simple product control system:
+<p align="center">
+  The application should be made based on this [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1)
+</p>
+
+
+The application consists of the need to serve a small business with a simple product control system with a specific layout:
 
 Create an application with the following features:
 * Authentication, public;
@@ -8,27 +17,28 @@ Create an application with the following features:
 * Page showing only active products, public;
 * Page describing how to run your application (be creative), public.
 
-Any extra features is welcome to add to the proposed basic solution. The layout is up to you. Architecture is up to you, be smart. You will be evaluated by the quality of the code, the modularity, the readability, the creativity, the amount of basic and extra features.
+Any extra features is welcome to add to the proposed basic solution. Architecture is up to you, be smart. You will be evaluated by the quality of the code, the modularity, the readability, the creativity, the amount of basic and extra features.
 
-# Instructions:
+# :bookmark: Instructions
 
-* With `Angular 2+`;
-* With `bootstrap 4+` for layouts;
+* With `Angular 2+, React.js`;
+* With any `UI Library` or without use libraries for layouts;
+
 * Take your time! We will evaluate the quality of your code, even incomplete and mainly its semantics.
 
-# Extra points:
+# :1st_place_medal: Extra points:
 * Unit testing;
 * Clean code and organization;
 * Code documentation;
 * Project documentation (readme);
   
-# Deadline?
+# :date: Deadline?
 48 hours
 
-# How to delivery?
+# :mailbox_with_mail: How to delivery?
 The code must be delivered to a Public Git repository
 
-# Endpoints
+# :tada: Endpoints
 #### Base URL
 ```sh
 https://bravosul-app.herokuapp.com/
