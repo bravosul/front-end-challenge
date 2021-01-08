@@ -4,7 +4,7 @@
   Welcome to Bravosul Front-End Challenge!
 </h1>
 
-The application consists of the need to serve a small business with a simple product control system and should be made based on this [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1)
+The application consists of the need to serve a small business with a simple product control system and should be made based on this [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1).
 
 Create an application with the following features:
 * Authentication, public;
